@@ -11,4 +11,4 @@ About me:
 - Currently learning Python🔥.
 - My goal for the year is to become a full-stack web developer.
 - Have a great interest in programming and Tech. 
-- So show some love and support in my programming/development journey.
+- So show some love and support in my programming journey.
