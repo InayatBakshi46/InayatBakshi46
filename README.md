@@ -9,7 +9,7 @@
 About me:
 - I'm a newbie programmer for now. 
 - Currently learning web development.
-- Have a bit of knowledge of Python
+- Have a bit of beginner knowledge of Python
 - My goal for the year is to become a full-stack web developer.
 - Have a great interest in programming and Tech. 
 - So show some love and support in my programming journey.
