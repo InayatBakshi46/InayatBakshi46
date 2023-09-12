@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello There 👋How's it going?</h1>
 
 ###
 
-<p align="left">My name is Inayat Bakshi and I'm a Frontend developer</p>
+<p align="left">My name is Inayat Bakshi and I'm a Frontend developer and python programmer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Backend web development.<br>🎯 Goals: To be a fullstack developer.</p>
+<p align="left">📚 Just finished Frontend web development and currently learning Backend web development.<br>🎯 Goals: To be a fullstack developer till 2024.</p>
 
 ###
 
