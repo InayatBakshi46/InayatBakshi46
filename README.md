@@ -10,7 +10,7 @@ I'm a student and a Frontend developer currently learning Backend development.
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://magi-tech.netlify.app)
 [![Instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/inayatbakshi_46)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/inayatbakshi46)
-[![twitter](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:inayatbakshi75@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:inayatbakshi75@gmail.com)
 
 
 ## 🛠 Skills
